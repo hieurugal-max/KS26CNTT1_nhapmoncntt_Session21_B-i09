@@ -44,8 +44,6 @@ Nguyên nhân có thể là tài khoản chạy phần mềm chưa có đủ quy
 - **Bước 2:** Nếu vẫn lỗi, vào `C:\Program Files\VoltCharge`, nhấn chuột phải thư mục `data` → Properties → Security → Edit. Chọn đúng tài khoản chạy phần mềm và cấp quyền Write hoặc Modify theo hướng dẫn của quản trị viên.
 - **Bước 3:** Nhấn Apply → OK, mở lại phần mềm và kiểm tra xem trạm sạc đã hoạt động bình thường chưa.
 
-**Lưu ý:** Không cấp quyền Full Control cho Everyone vì có thể làm giảm an toàn hệ thống. Chỉ thay đổi quyền khi được người có trách nhiệm cho phép.
-
 ### 5. Xử lý API Key trước khi gửi cho AI
 
 Nếu trong log có dòng:
